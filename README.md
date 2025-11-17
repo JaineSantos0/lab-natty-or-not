@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 📘 AWS Certification Study Guide - 5 Erros Fatais
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E-book educacional que apresenta os 5 erros mais comuns cometidos por candidatos à certificação AWS Developer Associate, baseado em experiência real de preparação. O material oferece estratégias práticas para evitar essas armadilhas e conquistar a certificação na primeira tentativa, com foco especial nos domínios de Security e Troubleshooting que representam 40% do exame.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Claude (Anthropic)** - Estruturação do conteúdo técnico e criação de exemplos práticos
+- **ChatGPT-4** - Refinamento de linguagem e organização didática
+- **Markdown** - Formatação do documento
+- **GitHub** - Versionamento e distribuição
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Análise da experiência**: Após alcançar 693 pontos no exame (27 pontos abaixo da aprovação), identifiquei os 5 principais erros que impactaram meu resultado
+2. **Estruturação com IA**: Utilizei Claude para organizar as lições aprendidas em formato didático, criar tabelas comparativas de serviços AWS e desenvolver estratégias de mitigação
+3. **Refinamento**: Com ChatGPT, refinei a linguagem para tornar mais acessível e adicionei analogias, mnemônicos e estruturas visuais
+4. **Validação técnica**: Verifiquei todas as informações contra documentação oficial AWS e validei com experiência prática em projetos
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+📘 **E-book completo** com aproximadamente 3.500 palavras contendo:
+- 5 erros detalhados com explicações e soluções práticas
+- Tabelas comparativas de serviços AWS (Lambda, API Gateway, DynamoDB, etc.)
+- Checklist de preparação com 20+ itens
+- Estratégia de gestão de tempo para o exame
+- Lista de recursos recomendados (cursos, simulados, documentação)
+- Exemplos de 3 projetos hands-on completos
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+**Acesse o e-book completo**: [ebook-aws-certification.md](./ebook-aws-certification.md)
